@@ -1,3 +1,5 @@
+## I started this challenge on 12.10.2020. I try to solve challenges one-by-one in Java and hopefully in Python
+
 ## List of Problems
 
 - Problem #1 [Multiples of 3 and 5](https://projecteuler.net/problem=1)
